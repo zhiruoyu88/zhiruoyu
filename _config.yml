@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+permalink: /:title
+
+title: 智若雨个人博客
+url: http://zhiruoyu.github.io
+feed: /atom.xml
+author_info: <a href="http://zhiruoyu.github.io/">智若雨</a>
